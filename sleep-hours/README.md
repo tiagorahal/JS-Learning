@@ -1,13 +1,11 @@
-## JS-Learning
+## Sleep Hours
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> In this project a function show how much sleep is good for the body.
 
 
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 
 ### Prerequisites

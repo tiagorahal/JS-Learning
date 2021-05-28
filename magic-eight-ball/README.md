@@ -1,13 +1,11 @@
-## JS-Learning
+## Eight Ball
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> This project is a magic eight ball with 9 phrases.
 
 
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 
 ### Prerequisites

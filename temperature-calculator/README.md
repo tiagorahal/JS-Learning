@@ -1,13 +1,11 @@
-## JS-Learning
+## Temperature
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> This project is Kelvin to Celsius converter.
 
 
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 
 ### Prerequisites

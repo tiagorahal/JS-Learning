@@ -1,13 +1,11 @@
-## JS-Learning
+## Team Stats
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> This project is a simulated database of teams, points and players.
 
 
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 
 ### Prerequisites

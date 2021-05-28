@@ -1,13 +1,11 @@
-## JS-Learning
+## Dog-Years
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> This project is a simple calculator to convert human years in dog years.
 
 
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 
 ### Prerequisites

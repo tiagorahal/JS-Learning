@@ -1,13 +1,11 @@
-## JS-Learning
+## Secret Message
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> In this project an array of strings is changed to show a secret message.
 
 
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 
 ### Prerequisites

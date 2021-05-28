@@ -1,4 +1,4 @@
-let myAge = 27;
+let myAge = Math.floor(Math.random() * 15);
 
 let earlyYears = 2;
 

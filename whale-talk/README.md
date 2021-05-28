@@ -1,13 +1,11 @@
-## JS-Learning
+## Whale Talk
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> This project is a whale talk simulator.
 
 
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 
 ### Prerequisites

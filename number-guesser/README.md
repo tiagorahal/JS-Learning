@@ -1,22 +1,21 @@
-## JS-Learning
+## Number Guesser
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> This project is number guesser with a interface made with HTML and CSS.
 
 
 
 ## Built With
 
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 
 ### Prerequisites
 
 1. VSCode
-
 2. Terminal (Bash)
-
 3. Git
+4. Web Browser
 
 
 ## Authors

@@ -1,13 +1,11 @@
-## JS-Learning
+## Rock-Paper-Scissors
 
-> Here are some projects that I did to learn JavaScript, these projects are from sites such as FreeCodeCamp and CodeCademy and others alike.
+> This project is a rock-paper-scissors game on the console.
 
 
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 
 ### Prerequisites
