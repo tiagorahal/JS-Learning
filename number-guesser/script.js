@@ -11,10 +11,10 @@ function generateTarget() {
 function compareGuesses(playerNumber, computerNumber, randomNumber) {
   if(playerNumber === randomNumber && computerNumber !== randomNumber){
     return true
-  } else if(computerNumber === randomNumber && playerNumber !== randomNumber) {
-    return false
   } else if(playerNumber === randomNumber && computerNumber === randomNumber) {
     return true
+  } else if(computerNumber === randomNumber && playerNumber !== randomNumber) {
+    return false
   } else {
     console.log('Something is wrong!')
     return false
