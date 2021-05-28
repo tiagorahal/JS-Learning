@@ -23,3 +23,7 @@ const updateScore = (winner) => {
     console.log('Something is wrong!')
   }
 }
+
+const advanceRound = () => {
+  currentRoundNumber++
+}
