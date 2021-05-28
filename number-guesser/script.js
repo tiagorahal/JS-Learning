@@ -20,3 +20,14 @@ const compareGuesses = (playerNumber, computerNumber, randomNumber) => {
     return false
   }
 }
+
+const updateScore = (winner) => {
+  if(winner === 'human') {
+    humanScore++
+  } else if(winner === 'computer') {
+    computerScore++
+  } else {
+    console.log('Something is wrong!')
+    return false
+  }
+}
