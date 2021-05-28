@@ -8,17 +8,10 @@ const generateTarget = () => {
   return Math.floor(Math.random() * 10);
 }
 
-const compareGuesses = (playerNumber, computerNumber, randomNumber) => {
-  if(playerNumber === randomNumber && computerNumber !== randomNumber){
-    return true
-  } else if(playerNumber === randomNumber && computerNumber === randomNumber) {
-    return true
-  } else if(computerNumber === randomNumber && playerNumber !== randomNumber) {
-    return false
-  } else {
-    console.log('Something is wrong!')
-    return false
-  }
+const compareGuesses = (humanGuess, computerGuess, targetGuess) => {
+  const humanDifference = Math.abs(targetGuess - humanGuess)
+  const computerDifference = Math.abs(targetGuess - computerGuess)
+  return humanDifference <= computerDifference;
 }
 
 const updateScore = (winner) => {
