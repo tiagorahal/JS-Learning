@@ -4,11 +4,11 @@ let currentRoundNumber = 1;
 
 // Write your code below:
 
-function generateTarget = () => {
+const generateTarget = () => {
   return Math.floor(Math.random() * 10);
 }
 
-function compareGuesses = (playerNumber, computerNumber, randomNumber) => {
+const compareGuesses = (playerNumber, computerNumber, randomNumber) => {
   if(playerNumber === randomNumber && computerNumber !== randomNumber){
     return true
   } else if(playerNumber === randomNumber && computerNumber === randomNumber) {
