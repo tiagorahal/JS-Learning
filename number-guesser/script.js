@@ -28,6 +28,5 @@ const updateScore = (winner) => {
     computerScore++
   } else {
     console.log('Something is wrong!')
-    return false
   }
 }
