@@ -37,7 +37,3 @@ Feel free to check the [issues page](https://github.com/tiagorahal/JS-Learning/i
 
 Give a ⭐️ if you like this project!
 
-
-
-This project is [GNU](/LICENSE.md) licensed.
-
