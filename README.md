@@ -39,5 +39,5 @@ Give a ⭐️ if you like this project!
 
 
 
-This project is [MIT](./MIT.md) licensed.
+This project is [GNU](./LICENSE.md) licensed.
 
